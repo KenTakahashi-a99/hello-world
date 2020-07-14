@@ -1,2 +1,3 @@
-# masterブランチで追加変更
-print("hello world3")
+# ブランチでtestを変更
+# リリースの練習のため追加
+print("hello world2")
